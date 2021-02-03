@@ -1,4 +1,4 @@
-def find_max_value(array)
+def find_max_value(1, 3, 4, 6)
   count = 0 
   max_value = -1
   while count < array.length do
